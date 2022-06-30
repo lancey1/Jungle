@@ -1,0 +1,5 @@
+  <button name="button" type="submit" class= 'soldout' disabled= true>Sold Out</button>
+    <%= button_to add_item_cart_path(product_id: product.id), disabled:"disabled", class: 'btn' ,
+    method: :post do %>
+      <%= fa_icon "shopping-cart", text: 'Add' %> 
+    <% end %>
