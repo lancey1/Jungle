@@ -17,7 +17,7 @@
       </thead>
       <tbody>
         <% @categories.each do |category| %>
-          <%= render 'category', category: category, product_num: category::products.count %>
+          <%= render 'category', category: category, product_num: category.products.count %>
         <% end %>
       </tbody>
    </table>
