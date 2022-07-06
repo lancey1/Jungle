@@ -2,6 +2,19 @@
 
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
+### Features
+- Create an account or Log-in with an existing account, add products to cart, manage products and categories in the admin page
+
+## Final Product
+
+!["Logged in View of the Jungle App"](https://github.com/lancey1/jungle/blob/master/docs/nav.png)
+- Logged in View of the Jungle App
+!["View of an Empty Cart"](https://github.com/lancey1/jungle/blob/master/docs/empty.png)
+- View of an Empty Cart
+!["View of Admin Category Dashboard"](https://github.com/lancey1/jungle/blob/master/docs/category.png)
+- View of Admin Category Dashboard
+!["View of Cypress Testing"](https://github.com/lancey1/jungle/blob/master/docs/cypress_test.png)
+- View of Cypress Testing
 ## Setup
 
 1. Run `bundle install` to install dependencies
@@ -29,3 +42,4 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - Bootstrap 5
 - PostgreSQL 9.x
 - Stripe
+- Cypress(for testing)
