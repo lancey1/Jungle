@@ -1,8 +1,8 @@
 describe("Visit Home", () => {
   it("should navigate to home", () => {
-    cy.visit("http://0.0.0.0:3000/");
+    cy.visit("/");
   })
-  it("There is 11 products on the page", () => {
-    cy.get(".products article").should("have.length", 11);
+  it("should have 2 products on the page", () => {
+    cy.get(".products article").should("have.length", 2);
   });
 });
