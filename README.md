@@ -8,11 +8,14 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 ## Final Product
 
 !["Logged in View of the Jungle App"](https://github.com/lancey1/jungle/blob/master/docs/nav.png)
-- Logged in View of the Jungle App
+- Logged in View of the Jungle App with Dynamic Sale banner
+
 !["View of an Empty Cart"](https://github.com/lancey1/jungle/blob/master/docs/empty.png)
 - View of an Empty Cart
+
 !["View of Admin Category Dashboard"](https://github.com/lancey1/jungle/blob/master/docs/category.png)
 - View of Admin Category Dashboard
+
 !["View of Cypress Testing"](https://github.com/lancey1/jungle/blob/master/docs/cypress_test.png)
 - View of Cypress Testing
 ## Setup
